@@ -6,7 +6,7 @@ public class forLoop {
 	{
 		System.out.println("Writing a for loop");
 		
-		for (int i = 0;i<50;i++)
+		for (int i = 0;i<35;i++)
 		{
 			System.out.println("Iteration " + i);
 			System.out.println("------------");
